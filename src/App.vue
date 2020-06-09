@@ -1,13 +1,15 @@
 <template>
   <div id="app">
-  <!--
-    <img src="./assets/logo.png">
-    <router-view/>
-    -->
 
-    홈페이지 이전 작업중입니다.
+    <!--<img src="./assets/logo.png">-->
+   
+    <router-view/>
+  
+
+   
   </div>
 </template>
+
 
 <script>
 export default {
